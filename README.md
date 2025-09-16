@@ -182,11 +182,14 @@ AI is provided with a **few examples (input → output pairs)** to learn a style
 ```plaintext
 Here are some examples:  
 
+
 Customer: "My phone isn’t charging."  
 Chatbot: "Please try using a different cable or adapter. If it still doesn’t work, it may need servicing."  
 
+
 Customer: "The screen keeps flickering."  
 Chatbot: "That seems like a display issue. Restart your device and check again."  
+
 
 Now respond to:  
 Customer: "My app keeps crashing."
@@ -210,6 +213,9 @@ Customer: "My app keeps crashing."
 * Always test prompts with **edge cases** (e.g., missing data, typos).
 
 ---
+## Conclusion
+
+Result: The various types of Prompts are executed successfully with generated the report.
 
 ## Result
 
